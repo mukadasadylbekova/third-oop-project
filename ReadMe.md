@@ -1,4 +1,4 @@
-Amount Class
+# Amount Class
 
 Represents a transaction (deposit or withdrawal).
 Stores details like the amount, transaction type (DEPOSIT or WITHDRAWAL), and the time when the transaction happened.
